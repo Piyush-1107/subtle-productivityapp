@@ -27,7 +27,7 @@ A minimalist productivity app designed for focus and mindful task management. Bu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/subtle-productivityapp.git
+git clone https://github.com/Piyush-1107/subtle-productivityapp.git
 cd subtle-productivityapp
 ```
 
