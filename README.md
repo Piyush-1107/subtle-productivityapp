@@ -15,7 +15,31 @@ A minimalist productivity app designed for focus and mindful task management. Bu
 - **Dark/Light Theme**: Automatic theme switching based on system preferences
 - **Cross-Platform**: Available on iOS, Android, and Web
 
-## 🚀 Getting Started
+## � Screenshots
+
+<div align="center">
+
+### Theme Selection
+<img src="screenshots/themes_page.jpeg" width="300" alt="Theme Selection - Multiple beautiful themes including Warm Earth, Ocean Breeze, Forest Zen, and more">
+
+### Task Management
+<img src="screenshots/tasks_page.jpeg" width="300" alt="Task Management - Clean and intuitive task tracking interface">
+
+### Focus Timer
+<img src="screenshots/focus_timer.jpeg" width="300" alt="Focus Timer - Pomodoro-style timer for focused work sessions">
+
+### Focus Page
+<img src="screenshots/focus_page.jpeg" width="300" alt="Focus Page - Dedicated space for concentration and mindful productivity">
+
+### Progress Tracking
+<img src="screenshots/progress_page.jpeg" width="300" alt="Progress Tracking - Visualize your productivity journey with insightful analytics">
+
+### Navigation Menu
+<img src="screenshots/side_menu.jpeg" width="300" alt="Side Menu - Easy navigation between all app features">
+
+</div>
+
+## �🚀 Getting Started
 
 ### Prerequisites
 
